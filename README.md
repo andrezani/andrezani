@@ -8,7 +8,7 @@ I'm a Full-Stack Web Developer 💻 / Mobile Developer 📱!
 
 ## 🔭 I'm currently working on
 
-- Full Stack Social Media App with React & Appwrite
+- Launching my own Startup 
 - My CSS skills
 
 ## 🌱 I'm currently learning
