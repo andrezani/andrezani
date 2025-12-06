@@ -6,16 +6,6 @@ Hi there, I'm <a href="https://andrea-zani.me" target="_blank" rel="noreferrer">
 I'm a Full-Stack Web Developer 💻 / Mobile Developer 📱!
 </h2> 
 
-## 🔭 I'm currently working on
-
-- Launching my own Startup 
-- My CSS skills
-
-## 🌱 I'm currently learning
-
-- Next JS
-- Python
-
 ## 💼 Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
