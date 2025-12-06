@@ -20,10 +20,3 @@ I'm a Full-Stack Web Developer 💻 / Mobile Developer 📱!
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-
-
-
-## 📈 GitHub Stats 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezani&layout=compact)](https://github.com/andrezani)
