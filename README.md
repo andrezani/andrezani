@@ -44,6 +44,7 @@ Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent Europea
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
@@ -55,6 +56,7 @@ Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent Europea
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure" />
 
 </div>
 
@@ -63,8 +65,6 @@ Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent Europea
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=andrezani&theme=dark&hide_border=true&background=00000000&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="GitHub streak" />
-
-<img src="https://ghchart.rshah.org/34D399/andrezani" alt="Contribution graph" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezani/andrezani/output/github-snake.svg" />
