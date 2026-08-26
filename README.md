@@ -64,7 +64,7 @@ Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent Europea
 
 <img src="https://streak-stats.demolab.com?user=andrezani&theme=dark&hide_border=true&background=00000000&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezani&theme=github-compact&hide_border=true&area=true&color=8FE3CF&line=34D399&point=FFFFFF" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/34D399/andrezani" alt="Contribution graph" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezani/andrezani/output/github-snake.svg" />
