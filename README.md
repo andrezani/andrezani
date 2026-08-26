@@ -2,7 +2,7 @@
 
 # Andrea Zani
 
-<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Building+PR+Quorum+%E2%80%94+AI+code+review;iOS+%2F+macOS+apps%2C+shipped+solo;TypeScript+%C2%B7+Swift+%C2%B7+Next.js" alt="Andrea Zani — Founder @ Hibernyte" /></a>
+<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Building+PR+Quorum+%E2%80%94+AI+code+review;iOS+%2F+macOS+apps%2C+shipped+solo;TypeScript+%C2%B7+React+Native+%C2%B7+Swift+%C2%B7+Next.js" alt="Andrea Zani — Founder @ Hibernyte" /></a>
 
 <br/>
 
