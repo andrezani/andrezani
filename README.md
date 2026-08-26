@@ -1,4 +1,16 @@
+<div align="center">
+
 # Andrea Zani
+
+<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Building+PR+Quorum+%E2%80%94+AI+code+review;iOS+%2F+macOS+apps%2C+shipped+solo;TypeScript+%C2%B7+Swift+%C2%B7+Next.js" alt="Andrea Zani — Founder @ Hibernyte" /></a>
+
+<br/>
+
+<a href="https://prquorum.com"><img src="https://img.shields.io/badge/PR%20Quorum-Install%20on%20GitHub-34D399?style=for-the-badge&logo=github&logoColor=white" alt="PR Quorum" /></a>
+<a href="https://www.hibernyte.com"><img src="https://img.shields.io/badge/Hibernyte-App%20Studio-8FE3CF?style=for-the-badge&logo=apple&logoColor=white&labelColor=09090b&color=09090b" alt="Hibernyte" /></a>
+<a href="https://andrea-zani.me"><img src="https://img.shields.io/badge/andrea--zani.me-Portfolio-5B8AF5?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+
+</div>
 
 Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent European app studio. I design, build, and ship the whole thing: product, code, and launch.
 
@@ -20,6 +32,26 @@ Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent Europea
 
 [**Outpost**](https://github.com/andrezani/outpost) — social media API for AI agents: post to X, LinkedIn, Instagram, Reddit, Bluesky & Threads through one API, or via the [MCP server](https://github.com/andrezani/outpost-mcp).
 
+<div align="center">
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=andrezani&theme=dark&hide_border=true&background=00000000&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezani&theme=github-compact&hide_border=true&area=true&color=8FE3CF&line=34D399&point=FFFFFF" alt="Contribution graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrezani/andrezani/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrezani/andrezani/output/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/andrezani/andrezani/output/github-snake.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
 ---
 
+<div align="center">
+
 📍 Strasbourg, France · [andrea-zani.me](https://andrea-zani.me) · [hibernyte.com](https://www.hibernyte.com) · contact@andrea-zani.me
+
+</div>
