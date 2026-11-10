@@ -2,7 +2,7 @@
 
 # Andrea Zani
 
-<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Building+PR+Quorum+%E2%80%94+AI+code+review;AI-first+%E2%80%94+agents%2C+MCP%2C+vision%2C+on-device+LLMs;iOS+%2F+macOS+apps%2C+shipped+solo;TypeScript+%C2%B7+React+Native+%C2%B7+Swift+%C2%B7+Next.js" alt="Andrea Zani — Founder @ Hibernyte" /></a>
+<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Lead+engineer+%E2%80%94+5+production+apps;Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Building+PR+Quorum+%E2%80%94+AI+code+review;AI-first+%E2%80%94+agents%2C+MCP%2C+vision%2C+on-device+LLMs;iOS+%2F+macOS+apps%2C+shipped+solo;TypeScript+%C2%B7+React+Native+%C2%B7+Swift+%C2%B7+Next.js" alt="Andrea Zani — Founder @ Hibernyte" /></a>
 
 <br/>
 
@@ -12,33 +12,47 @@
 
 </div>
 
-Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent European app studio. I design, build, and ship the whole thing: product, code, and launch. AI runs through all of it — reviewer panels, agent APIs, computer vision, on-device LLMs.
+I work on two tracks: **by day** I'm lead engineer for a French fundraising company's software; **on my own time** I run **[Hibernyte](https://www.hibernyte.com)**, my indie app studio.
 
-## Day job
+---
 
-Lead engineer at a French fundraising company, where I own most of the software end to end:
+## Day job · Lead engineer
+
+I own most of the company's software end to end:
 
 - **5 production apps:** an ops dashboard (React + MUI), a field app used daily by fundraisers (Expo / React Native, OTA updates), a recruitment platform (Next.js + n8n), a planning app (React + Vite) and a partner portal
 - **Shared Postgres / Supabase backend** with a migration system I built (reviewed migrations + rollbacks, CI checks), plus the servers and the org's CI
 - **2026 so far:** ~1,400 merged PRs, about 63% of the team's total
 
-## Now building
+*That code is private, which is why most of the graph below is private contributions.*
+
+---
+
+## Indie · Founder @ Hibernyte
+
+An independent European app studio. I design, build and ship the whole thing: product, code and launch. AI runs through all of it: reviewer panels, agent APIs, computer vision, on-device LLMs.
+
+### Now building
 
 **[PR Quorum](https://prquorum.com)** — a panel of specialized AI reviewers (correctness, security, architecture) that runs on every pull request and posts one combined, actionable GitHub review. Install the app, open a PR, get a verdict. **Free for public repos.**
 
-## Shipped
+### Shipped
 
-| App | What it is |
+| Product | What it is |
 |---|---|
+| [Launchr](https://launchr.hibernyte.com) | Native macOS app that connects Claude Code, Codex and any MCP client to App Store Connect: screenshots, in-app purchases, TestFlight and review submission from one prompt |
+| Tide Isles | Mobile game: merge-3 puzzle on islands against a rising tide |
 | [Somnly](https://somnly.hibernyte.com) | Sleep & focus sound mixer — 30+ handcrafted ambient sounds, layering, sleep timer, smart alarm |
 | [Konvertly](https://konvertly.hibernyte.com) | File converter for images, video, audio & documents — 100% on-device, your files never leave your phone |
 | [SnapChef](https://snapchef.hibernyte.com) | Point your camera at the fridge, get real recipes you can cook tonight |
 | [Cambio](https://cambio.hibernyte.com) | Travel currency converter — live ECB rates for 40+ currencies, works offline, trip budgets |
 | [Notchi](https://notchi.hibernyte.com) | A pixel pet living in your MacBook notch — focuses when you focus · *coming soon* |
 
-## Open source
+### Open source
 
 [**Outpost**](https://github.com/andrezani/outpost) — social media API for AI agents: post to X, LinkedIn, Instagram, Reddit, Bluesky & Threads through one API, or via the [MCP server](https://github.com/andrezani/outpost-mcp).
+
+---
 
 ## Stack
 
