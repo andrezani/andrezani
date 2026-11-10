@@ -14,6 +14,14 @@
 
 Founder at **[Hibernyte](https://www.hibernyte.com)** — an independent European app studio. I design, build, and ship the whole thing: product, code, and launch. AI runs through all of it — reviewer panels, agent APIs, computer vision, on-device LLMs.
 
+## Day job
+
+Lead engineer at a French fundraising company, where I own most of the software end to end:
+
+- **5 production apps:** an ops dashboard (React + MUI), a field app used daily by fundraisers (Expo / React Native, OTA updates), a recruitment platform (Next.js + n8n), a planning app (React + Vite) and a partner portal
+- **Shared Postgres / Supabase backend** with a migration system I built (reviewed migrations + rollbacks, CI checks), plus the servers and the org's CI
+- **2026 so far:** ~1,400 merged PRs, about 63% of the team's total
+
 ## Now building
 
 **[PR Quorum](https://prquorum.com)** — a panel of specialized AI reviewers (correctness, security, architecture) that runs on every pull request and posts one combined, actionable GitHub review. Install the app, open a PR, get a verdict. **Free for public repos.**
