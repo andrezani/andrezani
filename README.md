@@ -32,21 +32,28 @@ I own most of the company's software end to end:
 
 An independent European app studio. I design, build and ship the whole thing: product, code and launch. AI runs through all of it: reviewer panels, agent APIs, computer vision, on-device LLMs.
 
-### Now building
+### Shipped · iPhone
 
-**[PR Quorum](https://prquorum.com)** — a panel of specialized AI reviewers (correctness, security, architecture) that runs on every pull request and posts one combined, actionable GitHub review. Install the app, open a PR, get a verdict. **Free for public repos.**
-
-### Shipped
-
-| Product | What it is |
+| App | What it is |
 |---|---|
-| [Launchr](https://launchr.hibernyte.com) | Native macOS app that connects Claude Code, Codex and any MCP client to App Store Connect: screenshots, in-app purchases, TestFlight and review submission from one prompt |
-| [Planktown](https://planktown.hibernyte.com) | Cozy raft-builder game for iPhone: grow six planks into a floating town, welcome castaways and pets, sail to hidden islands. Plays offline |
-| [Somnly](https://somnly.hibernyte.com) | Sleep & focus sound mixer — 30+ handcrafted ambient sounds, layering, sleep timer, smart alarm |
-| [Konvertly](https://konvertly.hibernyte.com) | File converter for images, video, audio & documents — 100% on-device, your files never leave your phone |
-| [SnapChef](https://snapchef.hibernyte.com) | Point your camera at the fridge, get real recipes you can cook tonight |
-| [Cambio](https://cambio.hibernyte.com) | Travel currency converter — live ECB rates for 40+ currencies, works offline, trip budgets |
-| [Notchi](https://notchi.hibernyte.com) | A pixel pet living in your MacBook notch — focuses when you focus · *coming soon* |
+| [SnapChef](https://snapchef.hibernyte.com) | AI recipe generator: photograph your fridge or pantry, get recipes from what you already have |
+| [Somnly](https://somnly.hibernyte.com) | Sleep sounds & white noise: 25 sounds, mix several at once, fade-out timer, gentle alarm |
+| [Cambio](https://cambio.hibernyte.com) | Currency converter: 160 currencies, works offline, cheat sheet and trip budget |
+| [Konvertly](https://konvertly.hibernyte.com) | HEIC to JPG, MOV to MP4 and documents, all converted on the phone |
+
+### Shipped · developer tools
+
+| Tool | What it is |
+|---|---|
+| [Launchr](https://launchr.hibernyte.com) | Mac app that lets Claude Code, Codex or any MCP client handle App Store Connect: screenshots, TestFlight, in-app purchases, review submission, with your approval on what matters |
+| [PR Quorum](https://prquorum.com) | AI code review GitHub app: three reviewers check every PR for correctness, security and architecture, drop duplicate and low-confidence findings, and post one review |
+
+### In the works
+
+| Project | What it is |
+|---|---|
+| [Planktown](https://planktown.hibernyte.com) | Cozy raft-builder game for iPhone: grow six planks into a floating town, welcome castaways and pets, sail to hidden islands. *Coming to iPhone* |
+| [Notchi](https://notchi.hibernyte.com) | A pixel pet in your MacBook notch that focuses when you do, plus a widget dashboard. *Early access* |
 
 ### Open source
 
