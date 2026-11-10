@@ -41,7 +41,7 @@ An independent European app studio. I design, build and ship the whole thing: pr
 | Product | What it is |
 |---|---|
 | [Launchr](https://launchr.hibernyte.com) | Native macOS app that connects Claude Code, Codex and any MCP client to App Store Connect: screenshots, in-app purchases, TestFlight and review submission from one prompt |
-| Tide Isles | Mobile game: merge-3 puzzle on islands against a rising tide |
+| [Planktown](https://planktown.hibernyte.com) | Cozy raft-builder game for iPhone: grow six planks into a floating town, welcome castaways and pets, sail to hidden islands. Plays offline |
 | [Somnly](https://somnly.hibernyte.com) | Sleep & focus sound mixer — 30+ handcrafted ambient sounds, layering, sleep timer, smart alarm |
 | [Konvertly](https://konvertly.hibernyte.com) | File converter for images, video, audio & documents — 100% on-device, your files never leave your phone |
 | [SnapChef](https://snapchef.hibernyte.com) | Point your camera at the fridge, get real recipes you can cook tonight |
