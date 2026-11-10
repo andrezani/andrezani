@@ -2,7 +2,7 @@
 
 # Andrea Zani
 
-<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Lead+engineer+%E2%80%94+5+production+apps;~1%2C400+PRs+merged+in+2026;Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Shipped%3A+4+iPhone+apps%2C+Launchr%2C+PR+Quorum;Next+up%3A+Planktown%2C+a+cozy+iPhone+game;Swift+%C2%B7+React+Native+%C2%B7+Next.js+%C2%B7+Supabase" alt="Andrea Zani — Lead engineer and founder @ Hibernyte" /></a>
+<a href="https://www.hibernyte.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Technical+Lead+%40+Wesser+France;First+engineer+%E2%80%94+built+5+products+from+zero;AI+in+production%3A+RAG%2C+evals%2C+agents;Founder+%40+Hibernyte+%E2%80%94+indie+app+studio;Shipped%3A+4+iPhone+apps%2C+Launchr%2C+PR+Quorum;Co-founder+%40+TROK+%E2%80%94+live+on+iOS+%26+Android;Swift+%C2%B7+React+Native+%C2%B7+Next.js+%C2%B7+Supabase" alt="Andrea Zani — Technical Lead @ Wesser France, founder @ Hibernyte" /></a>
 
 <br/>
 
@@ -12,16 +12,18 @@
 
 </div>
 
-I work on two tracks: **by day** I'm lead engineer for a French fundraising company's software; **on my own time** I run **[Hibernyte](https://www.hibernyte.com)**, my indie app studio.
+I work on two tracks: **by day** I'm Technical Lead at **Wesser France**; **on my own time** I run **[Hibernyte](https://www.hibernyte.com)**, my indie app studio, and co-founded **[TROK](https://trok-app.com)**.
 
 ---
 
-## Day job · Lead engineer
+## Day job · Technical Lead @ Wesser France
 
-I own most of the company's software end to end:
+I joined as the first engineer, built the whole product suite from zero, and now lead the engineering team. Wesser runs face-to-face fundraising for NGOs, and 500+ fundraisers across France and Luxembourg work on this platform every day.
 
-- **5 production apps:** an ops dashboard (React + MUI), a field app used daily by fundraisers (Expo / React Native, OTA updates), a recruitment platform (Next.js + n8n), a planning app (React + Vite) and a partner portal
-- **Shared Postgres / Supabase backend** with a migration system I built (reviewed migrations + rollbacks, CI checks), plus the servers and the org's CI
+- **5 products, one Postgres, one sign-in:** a recruitment platform (Next.js + n8n, 67 automated workflows), the fundraiser app (iOS + Android with Expo, guarded OTA releases), the ops back office (incl. a France/Luxembourg payroll engine), a field planner and an NGO partner portal
+- **AI in production:** a French RAG + tool-use assistant in the fundraiser app, from brief to pilot in a week and gated by an eval set; LLM classification at 0.999 precision; candidate screening cost cut ~88%, to $0.0005 per candidate
+- **AI-first team:** a self-hosted coding agent takes Linear tickets to pull requests (the first in 58 seconds), and every PR gets AI review
+- **Platform:** shared Supabase backend with a migration system I built (reviewed migrations + rollbacks), Microsoft Entra sign-in, servers and CI
 - **2026 so far:** ~1,400 merged PRs, about 63% of the team's total
 
 *That code is private, which is why most of the graph below is private contributions.*
@@ -58,6 +60,12 @@ An independent European app studio. I design, build and ship the whole thing: pr
 ### Open source
 
 [**Outpost**](https://github.com/andrezani/outpost) — social media API for AI agents: post to X, LinkedIn, Instagram, Reddit, Bluesky & Threads through one API, or via the [MCP server](https://github.com/andrezani/outpost-mcp).
+
+---
+
+## Co-founder · TROK
+
+**[TROK](https://trok-app.com)** — peer-to-peer clothing-swap app: swipe to discover, meet locally, swap without money. Live on the App Store and Google Play. I built all of it as the sole engineer: React Native app with swipe matching, real-time chat, geolocation and selfie identity verification, a Firebase backend, and an admin console for moderation and referrals.
 
 ---
 
