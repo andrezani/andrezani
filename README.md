@@ -57,10 +57,6 @@ An independent European app studio. I design, build and ship the whole thing: pr
 | [Planktown](https://planktown.hibernyte.com) | Cozy raft-builder game for iPhone: grow six planks into a floating town, welcome castaways and pets, sail to hidden islands. *Coming to iPhone* |
 | [Notchi](https://notchi.hibernyte.com) | A pixel pet in your MacBook notch that focuses when you do, plus a widget dashboard. *Early access* |
 
-### Open source
-
-[**Outpost**](https://github.com/andrezani/outpost) — social media API for AI agents: post to X, LinkedIn, Instagram, Reddit, Bluesky & Threads through one API, or via the [MCP server](https://github.com/andrezani/outpost-mcp).
-
 ---
 
 ## Co-founder · TROK
